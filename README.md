@@ -4,7 +4,7 @@
 ## Project Overview
 
 ## Resources
- The original data source used for this analysis was election_results.csv found in the Resources Folder of this repository: [(https://github.com/JonathanBrown003/Election_Analysis/tree/main/Resources)] 
+ The original data source used for this analysis was election_results.csv found in the Resources Folder of this repository: [Resources Folder](https://github.com/JonathanBrown003/Election_Analysis/tree/main/Resources) 
  
  
 ## Summary
