@@ -1,5 +1,5 @@
 # Colorado Election Analysis
-  Python script to analyze election results in a local congressional election in the state of Colorado. The largest voter turnout was in Denver County.  
+Python script to analyze election results in a local congressional election in the state of Colorado. The largest voter turnout was in Denver County.  
   
 ## Project Overview
 We were given the task of determining the following election results of a Colorado Congressional election:
@@ -13,7 +13,7 @@ We were given the task of determining the following election results of a Colora
 The final challenge code used to complete the analysis can be found [Here](https://github.com/JonathanBrown003/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 ## Resources
- The original data source used for this analysis was election_results.csv found in the Resources Folder of this repository: [Resources Folder](https://github.com/JonathanBrown003/Election_Analysis/tree/main/Resources) 
+The original data source used for this analysis was election_results.csv found in the Resources Folder of this repository: [Resources Folder](https://github.com/JonathanBrown003/Election_Analysis/tree/main/Resources) 
  
  We used Python script along with Visual Studio Code to write this analysis.
  
@@ -28,6 +28,5 @@ The analysis of the election showed the following:
 
 ![](https://raw.githubusercontent.com/JonathanBrown003/Election_Analysis/main/Election_Results_Capture.PNG)
 
-## Challenge Overview
-
 ## Challenge Summary
+This Python script could be modified to tally more data like ensuring there aren't any duplicate votes being counted by using syntax that iterates through column 1 of the CSV file to ensure each "Ballot ID" is a unique value/integer. More columns of data would be helpful for analyzing more data about this election. This challenge was very difficult with my very minimal skill level in Python, it took a lot of debugging, module work, and google searches for the script to run correctly. 
